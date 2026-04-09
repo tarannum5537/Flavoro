@@ -1,0 +1,243 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Classic Cheese Burger",
+      "price": 750,
+      "description": "Juicy grilled beef burger with melted cheese.",
+      "category": "fast food",
+      "img": "https://images.unsplash.com/photo-1547584370-2cc98b8b8dc8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoZWVzZSUyMGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "2",
+      "title": "Margherita Pizza",
+      "price": 910,
+      "description": "Italian pizza with tomato sauce and mozzarella.",
+      "category": "pizza",
+      "img": "https://media.istockphoto.com/id/905492462/photo/pizza-margarita-with-mozzarella-cheese-basil-and-tomato-template-for-your-design-and-menu-of.webp?a=1&b=1&s=612x612&w=0&k=20&c=l1udwEUzAkE_Np5_AFy1HNZApX87NHqWe1yOr8O7mYA="
+    },
+    {
+      "id": "3",
+      "title": "Chicken Biryani",
+      "price": 1080,
+      "description": "Aromatic basmati rice with spicy chicken.",
+      "category": "rice",
+      "img": "https://plus.unsplash.com/premium_photo-1694141251673-1758913ade48?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "4",
+      "title": "Veg Sandwich",
+      "price": 455,
+      "description": "Grilled sandwich loaded with fresh vegetables.",
+      "category": "fast food",
+      "img": "https://images.unsplash.com/photo-1673534751361-a610db445eef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHZlZyUyMHNhbmR3aWNofGVufDB8fDB8fHww"
+    },
+    {
+      "id": "5",
+      "title": "Spaghetti Pasta",
+      "price": 830,
+      "description": "Italian pasta with creamy white sauce.",
+      "category": "pasta",
+      "img": "https://images.unsplash.com/photo-1676471771228-c4cdbfbd2a7f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fFNwYWdoZXR0aSUyMFBhc3RhfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "6",
+      "title": "Fried Chicken",
+      "price": 950,
+      "description": "Crispy golden fried chicken pieces.",
+      "category": "chicken",
+      "img": "https://plus.unsplash.com/premium_photo-1683139916670-38113db90cb9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZnJpZWQlMjBjaGlja2VufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "7",
+      "title": "Chocolate Cake",
+      "price": 580,
+      "description": "Rich chocolate cake with creamy frosting.",
+      "category": "dessert",
+      "img": "https://images.unsplash.com/photo-1621424093521-eec9a43df158?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGNob2NvbGF0ZSUyMGNha2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "8",
+      "title": "Caesar Salad",
+      "price": 665,
+      "description": "Fresh lettuce with parmesan and dressing.",
+      "category": "salad",
+      "img": "https://images.unsplash.com/photo-1607532941433-304659e8198a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2Flc2FyJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "9",
+      "title": "Grilled Steak",
+      "price": 1575,
+      "description": "Tender grilled steak with herbs.",
+      "category": "meat",
+      "img": "https://plus.unsplash.com/premium_photo-1723478557023-1f739ec06671?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JpbGxlZCUyMHN0ZWFrfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "10",
+      "title": "Sushi Platter",
+      "price": 1330,
+      "description": "Japanese sushi with fresh seafood.",
+      "category": "japanese",
+      "img": "https://images.unsplash.com/photo-1676037150294-837ff0c29599?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHN1c2hpJTIwcGxhdHRlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "11",
+      "title": "Paneer Butter Masala",
+      "price": 870,
+      "description": "Creamy Indian curry with paneer cubes.",
+      "category": "indian",
+      "img": "https://images.unsplash.com/photo-1683533738338-19b9a22c6405?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFBhbmVlciUyMEJ1dHRlciUyME1hc2FsYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "12",
+      "title": "Masala Dosa",
+      "price": 580,
+      "description": "Crispy dosa stuffed with spiced potatoes.",
+      "category": "south indian",
+      "img": "https://images.unsplash.com/photo-1694849789325-914b71ab4075?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFzYWxhJTIwZG9zYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "13",
+      "title": "French Fries",
+      "price": 370,
+      "description": "Crispy salted potato fries.",
+      "category": "snacks",
+      "img": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEZyZW5jaCUyMEZyaWVzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "14",
+      "title": "Ice Cream Sundae",
+      "price": 500,
+      "description": "Vanilla ice cream topped with chocolate syrup.",
+      "category": "dessert",
+      "img": "https://images.unsplash.com/photo-1708782343454-5d66dda6e107?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SWNlJTIwQ3JlYW0lMjBTdW5kYWV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "15",
+      "title": "Chicken Tacos",
+      "price": 790,
+      "description": "Mexican tacos filled with spicy chicken.",
+      "category": "mexican",
+      "img": "https://images.unsplash.com/photo-1612783322327-32aee68ad0a1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENoaWNrZW4lMjBUYWNvc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "16",
+      "title": "BBQ Ribs",
+      "price": 1495,
+      "description": "Slow cooked BBQ ribs with sauce.",
+      "category": "meat",
+      "img": "https://images.unsplash.com/photo-1593030668930-8130abedd2b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEJCUSUyMFJpYnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "17",
+      "title": "Veg Noodles",
+      "price": 625,
+      "description": "Stir fried noodles with vegetables.",
+      "category": "chinese",
+      "img": "https://plus.unsplash.com/premium_photo-1674511582428-58ce834ce172?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8VmVnJTIwTm9vZGxlc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "18",
+      "title": "Chicken Shawarma",
+      "price": 750,
+      "description": "Middle eastern wrap with grilled chicken.",
+      "category": "arabic",
+      "img": "https://images.unsplash.com/photo-1719282431723-9d0f4370d4bc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Q2hpY2tlbiUyMFNoYXdhcm1hfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "19",
+      "title": "Pancakes",
+      "price": 540,
+      "description": "Fluffy pancakes with maple syrup.",
+      "category": "breakfast",
+      "img": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGFuY2FrZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "20",
+      "title": "Waffles",
+      "price": 580,
+      "description": "Golden waffles topped with honey.",
+      "category": "breakfast",
+      "img": "https://images.unsplash.com/photo-1512056068661-14ef8b6bfabe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8V2FmZmxlc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "21",
+      "title": "Ramen Bowl",
+      "price": 995,
+      "description": "Japanese ramen with broth and noodles.",
+      "category": "japanese",
+      "img": "https://images.unsplash.com/photo-1697652974652-a2336106043b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFJhbWVuJTIwQm93bHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "22",
+      "title": "Grilled Salmon",
+      "price": 1410,
+      "description": "Healthy grilled salmon with herbs.",
+      "category": "seafood",
+      "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8R3JpbGxlZCUyMFNhbG1vbnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "23",
+      "title": "Fish and Chips",
+      "price": 1040,
+      "description": "Classic British fried fish with fries.",
+      "category": "seafood",
+      "img": "https://plus.unsplash.com/premium_photo-1695758774479-faae1180b078?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEZpc2glMjBhbmQlMjBDaGlwc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "24",
+      "title": "Veg Burger",
+      "price": 625,
+      "description": "Vegetarian burger with fresh veggies.",
+      "category": "fast food",
+      "img": "https://images.unsplash.com/photo-1611309454921-16cef3438ee0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFZlZyUyMEJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "25",
+      "title": "Chicken Pizza",
+      "price": 1040,
+      "description": "Pizza topped with grilled chicken.",
+      "category": "pizza",
+      "img": "https://images.unsplash.com/photo-1652952561151-97e82f26c336?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q2hpY2tlbiUyMFBpenphfGVufDB8fDB8fHww"
+    }
+  ],
+  "users": [
+    {
+      "id": "2",
+      "fullName": "tarannum ",
+      "email": "tannuzkhan@gmail.com",
+      "isAdmin": true,
+      "password": "1234",
+      "cart": []
+    },
+    {
+      "fullName": "joee",
+      "email": "joeee123@gmail.com",
+      "password": "123",
+      "id": "GlOcOrkfWjo",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "img": "https://media.istockphoto.com/id/998309062/photo/burger-with-beef-and-cheese.webp?a=1&b=1&s=612x612&w=0&k=20&c=hthCHhBsUotyv4SCP8MdltTNv1bT6g5R9NIB1fufva0=",
+            "title": "Burger",
+            "price": "130",
+            "description": "ggggggggggggggggg",
+            "category": "Snack",
+            "id": "tNOESXjgNVI"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "fullName": "taran",
+      "email": "tannuzkhan12@gmail.com",
+      "password": "2324",
+      "id": "XmVu8rZj9Pk",
+      "isAdmin": false,
+      "cart": []
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
